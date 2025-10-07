@@ -8,7 +8,7 @@ Selamat datang di tugas pertama Anda! Tugas ini dirancang untuk membantu Anda me
 
 1. **Clone repositori ini** ke komputer lokal Anda:
    ```bash
-   git clone https://github.com/UMM-GURU/tugas1-namauser.git
+   git clone https://github.com/UMM-GURU/analisis-big-data-tugas1-namauser.git
    cd assignment1-namauser
 
 2. Buka file notebook tugas1.ipynb menggunakan Jupyter Notebook atau Google Colab.
