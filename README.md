@@ -14,14 +14,13 @@ Selamat datang di tugas pertama Anda! Tugas ini dirancang untuk membantu Anda me
 2. Buka file notebook tugas1.ipynb menggunakan Jupyter Notebook atau Google Colab.
 
 3. Selesaikan tugas berikut:
+  - Jalankan semua cell sampai sebelum bagian cetak nama dan NIM, lalu buat commit
+  - Cetak NIM dan nama lengkap Anda di cell yang disediakan, lalu buat commit.
+  - Update cell latihan 1, lalu buat commit
+  - Update cell latihan 2, lalu buat commit
+  - Lakukan push ke remote repository
 
-   a. Jalankan semua cell sampai sebelum bagian cetak nama dan NIM, lalu buat commit
-   b. Cetak NIM dan nama lengkap Anda di cell yang disediakan, lalu buat commit.
-   c. Update cell latihan 1, lalu buat commit
-   d. Update cell latihan 2, lalu buat commit
-   e. Lakukan push ke remote repository
-
-**Minimal ada 4 commit**, Anda bisa memiliki lebih dari itu.
+**Minimal ada 4 commit tambahan**, Anda bisa memiliki lebih dari itu.
 
 Contoh melakukan commit dan push menggunakan terminal:
 
